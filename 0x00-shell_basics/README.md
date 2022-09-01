@@ -28,3 +28,11 @@
 
 14-copy_html copies all html files from the current working directoryto the parent working directory
 
+100-lets_move moves all files beginning with an uppercase letter to the directory /tmp/u
+
+101-clean_emacs deletes all files in the current working directory that end with a special character
+
+102-tree creates a dir inside a dir inside a dir
+
+103-comas lists all files sorted and separated with a comma
+
