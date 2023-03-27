@@ -1,4 +1,4 @@
-#0x0D. Web stack debugging
+# 0x0D. Web stack debugging
 
 ## Technologies
 * Scripts written in Bash 4.3.11(1)
